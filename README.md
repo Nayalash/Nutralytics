@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Nayalash/name-trail/blob/master/docs/NameTrail.gif"/>
+  <img src="https://github.com/Nayalash/Nutralytics/blob/master/docs/demo.gif"/>
 </p>
 
 ## Built With
