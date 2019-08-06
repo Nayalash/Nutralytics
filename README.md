@@ -2,11 +2,11 @@
 🍽 Nutralytics is a mobile application written in the flutter framework, that gives nutrition facts on different types of food.
 
 <p align="center">
-  <a href="https://nayalash.github.io/comingsoon"><img src="https://github.com/Nayalash/Nutralytics/blob/master/docs/gp.png" width = "400" height= "400"/> </a>
+  <a href="https://nayalash.github.io/comingsoon"><img src="https://github.com/Nayalash/Nutralytics/blob/master/docs/gp.png" width = "800" height= "400"/> </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Nayalash/Nutralytics/blob/master/docs/demo.gif" width="900" height="400"/>
+  <img src="https://github.com/Nayalash/Nutralytics/blob/master/docs/demo.gif" width="400" height="700"/>
 </p>
 
 ## Built With
