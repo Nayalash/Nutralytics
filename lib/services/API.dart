@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-const String appId = 'e9f1ab88';
-const String apiKey = 'b659cb0d52b2650b50cbdbbb01678f07';
+const String appId = 'INSERT';
+const String apiKey = 'INSERT';
 
 Future<dynamic> getData(String foodName) async {
 
