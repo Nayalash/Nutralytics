@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 class CustomCardList extends StatelessWidget {
-  String text;
+  final String _text;
 
-  CustomCardList({this.text});
+  const CustomCardList({this._text});
   @override
   Widget build(BuildContext context) {
     return Card(
@@ -15,7 +15,7 @@ class CustomCardList extends StatelessWidget {
             color: Colors.white,
           ),
           title: Text(
-            text,
+            _text,
             style: TextStyle(
               color: Colors.white,
               fontSize: 20,
